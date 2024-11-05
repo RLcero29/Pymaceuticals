@@ -1,0 +1,1 @@
+Uncompleted homework assignment for Pymaceuticals. Didn't complete the very last portion of the assignment, but will redo for a better grade at a later time. Also included the 3 observations at the beginning of the code based on what I completed so far.
